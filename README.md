@@ -1,3 +1,5 @@
+# Journal des Transactions
+
 ## 1. Contexte et Problématique
 
 Dans le cadre de l'amélioration de la transparence et de la conformité financière, les organisations doivent maintenir un journal des dépenses et des revenus associés à un projet. Afin de structurer ces données de manière rigoureuse, nous allons implémenter un journal des transactions en suivant le modèle de comptabilité en partie double (transaction log pattern).
@@ -61,7 +63,7 @@ Les tests porteront sur les critères suivants :
 ## 7. Livrables Attendus
 
 - Une interface plaisante à l'œil avec une bonne expérience utilisateur.
-- Un screenshot montrant l'implémentation de l'interface utilisateur.
+- Un screenshot montrant l'interface réalisée.
 - Un lien Github avec un README expliquant les choix techniques et l'implémentation.
 
 **Délai de livraison attendu** : Ce test ne devrait pas prendre plus de 2 à 3 jours au maximum pour être complété.
